@@ -1,0 +1,16 @@
+.cart {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+.cart h1 {
+  margin-bottom: 30px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
