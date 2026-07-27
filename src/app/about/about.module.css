@@ -1,0 +1,44 @@
+.aboutPage {
+  padding: 60px 20px;
+  background: #f5f5f5;
+  min-height: 100vh;
+}
+
+.aboutContainer {
+  max-width: 900px;
+  margin: auto;
+}
+
+.pageTitle {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.pageContent {
+  font-size: 18px;
+  line-height: 1.8;
+  text-align: center;
+  color: #555;
+  margin-bottom: 40px;
+}
+
+.aboutSection {
+  margin-top: 30px;
+}
+
+.aboutSection h2 {
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.aboutSection p,
+.aboutSection li {
+  color: #555;
+  line-height: 1.8;
+}
+
+.aboutSection ul {
+  padding-left: 20px;
+}
